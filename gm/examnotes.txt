@@ -1,0 +1,19 @@
+- def: Strictly dominated strategy
+en strategi s1 er strengt dominerer strategi s2 hvis payoffen fra s1 er strengt større enn fra s2, uansett hva andre gjør.
+
+- def: Spiller i's strategi s_i' er strictly dominated av spiller i's strategi s_i hvis:
+
+	u_i(s_i,s_-i) > u_i(s_'i,s_-1) for alle s_-i
+- def weak dominance
+
+- def pareto dominance, pareto optimal
+
+- def mixed strategy
+
+- Thm: Hvert endelig spill har Nashlikevekt (Kun sant i mikset strategi)
+  Bevis: Reduksjon fra Kakutanis fastkomma teorem
+
+- subgame perfect
+
+
+
